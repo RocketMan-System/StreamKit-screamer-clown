@@ -1,0 +1,28 @@
+{
+	"name": {
+		"en": "Evil Clown",
+		"ru": "Зловещий клоун",
+		"ua": "Зловісний клоун"
+	},
+	"description": {
+		"en": "A lot of kids don't like clowns. But any kid will love one 😈",
+		"ru": "Многие дети не любят клоунов. Но такого полюбит любой ребенок 😈",
+		"ua": "Багато дітей не люблять клоунів. Але такого полюбить будь-яка дитина 😈"
+	},
+	"author": "RocketMan",
+	"version": "1.0.0",
+	"type": "screamer",
+	"params": {
+		"video": {
+			"path": "media/Clown.webm",
+			"hideEnd": true
+		},
+		"sound": {
+			"path": "media/Clown.mp3"
+		}
+	},
+	"settings": {
+		"lockSeconds": 2,
+		"volume": 50
+	}
+}
